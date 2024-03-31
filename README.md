@@ -1,5 +1,11 @@
 # MLflow Project
+## Concepts Used:
+1. Modular Programming
+2. MLOps
 
+## Concepts which can be used:
+1. FrameWorks like Flask, DJango, StreamLit
+2. Cloud(AWS)
 
 ## Workflows
 
