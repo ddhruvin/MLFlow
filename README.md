@@ -14,8 +14,11 @@
 9. Update the app.py
 
 
-###MLFlow o/p
+MLFlow o/p
+
 <img width="831" alt="image" src="https://github.com/ddhruvin/MLFlow/assets/120237476/6ebe352b-47de-4ca7-9e29-2e2893c8f33b">
+
+It clearly shows that best parameter values are: alpha:0.2, l1-ratio: 0.1
 
 # How to run?
 ### STEPS:
